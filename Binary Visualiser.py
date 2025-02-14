@@ -20,13 +20,13 @@ elif (binary == "1"):
     ledPin3.value(0)
     ledPin4.value(1)
     
-if (binary == "2"):
+elif (binary == "2"):
     ledPin1.value(0)
     ledPin2.value(0)
     ledPin3.value(1)
     ledPin4.value(0)
     
-if (binary == "3"):
+elif (binary == "3"):
     ledPin1.value(0)
     ledPin2.value(0)
     ledPin3.value(1)
@@ -38,19 +38,19 @@ if (binary == "4"):
     ledPin3.value(0)
     ledPin4.value(0)
     
-if (binary == "5"):
+elif (binary == "5"):
     ledPin1.value(0)
     ledPin2.value(1)
     ledPin3.value(0)
     ledPin4.value(1)
     
-if (binary == "6"):
+elif (binary == "6"):
     ledPin1.value(0)
     ledPin2.value(1)
     ledPin3.value(1)
     ledPin4.value(0)
     
-if (binary == "7"):
+elif (binary == "7"):
     ledPin1.value(0)
     ledPin2.value(1)
     ledPin3.value(1)
@@ -62,13 +62,13 @@ if (binary == "8"):
     ledPin3.value(0)
     ledPin4.value(0)
     
-if (binary == "9"):
+elif (binary == "9"):
     ledPin1.value(1)
     ledPin2.value(0)
     ledPin3.value(0)
     ledPin4.value(1)
     
-if (binary == "10"):
+elif (binary == "10"):
     ledPin1.value(1)
     ledPin2.value(0)
     ledPin3.value(1)
@@ -80,25 +80,25 @@ if (binary == "11"):
     ledPin3.value(1)
     ledPin4.value(1)
     
-if (binary == "12"):
+elif (binary == "12"):
     ledPin1.value(1)
     ledPin2.value(1)
     ledPin3.value(0)
     ledPin4.value(0)
     
-if (binary == "13"):
+elif (binary == "13"):
     ledPin1.value(1)
     ledPin2.value(1)
     ledPin3.value(0)
     ledPin4.value(1)
     
-if (binary == "14"):
+elif (binary == "14"):
     ledPin1.value(1)
     ledPin2.value(1)
     ledPin3.value(1)
     ledPin4.value(0)
     
-if (binary == "15"):
+elif (binary == "15"):
     ledPin1.value(1)
     ledPin2.value(1)
     ledPin3.value(1)
